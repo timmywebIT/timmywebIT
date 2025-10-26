@@ -1,4 +1,4 @@
-# 👋 Привет! Я Full Stack Developer
+# 👋 Hello! I am Full Stack Developer
 
 ## 💻 Tech Stack
 
